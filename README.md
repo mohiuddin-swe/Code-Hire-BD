@@ -1,6 +1,6 @@
 "# Code-Hire-BD" 
 # Author
-Muhammad Mohiuddin
+Md Mohi Uddin
  <br> ID:213-35-799
 
  <br>Sazzad Nayem
